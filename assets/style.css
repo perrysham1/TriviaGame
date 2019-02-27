@@ -31,3 +31,15 @@ body {
 h3 {
     color: white;
 }
+
+.container {
+    text-align: center;
+}
+
+.btn {
+    margin: 2px;
+}
+
+#question {
+    color: white;
+}
